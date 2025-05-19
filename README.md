@@ -1,8 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Mashrabbek Akbarov!
+
+🎯 A passionate **Java/Spring Boot Developer** with over 6 years of experience building scalable backend systems in **banking and financial services**.
+
+
+---
+
+## 🤝 Let's Connect
+
+- 📧 Email: akbarov.dev@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/mashrabbek-akbarov/)  
+---
+
+## 🚀 The main thing is consistency
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mashrabbek&theme=dark" width="400" />
+  <a href="https://leetcode.com/mashrabjon/"><img src="https://leetcard.jacoblin.cool/mashrabjon?theme=dark" width="400" /></a>
+</div>
+
 
 <!--
-**mashrabbek/mashrabbek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
